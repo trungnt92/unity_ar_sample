@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MarkReferences
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5223733143015293058
+  m_GuidHigh: 10950152514093907628
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5753010303632531993
+      m_GuidHigh: 11118384052503207863
+    m_SerializedTextureGuid:
+      m_GuidLow: 12979156586051079535
+      m_GuidHigh: 3617597794488963530
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Mark1
+    m_Texture: {fileID: 2800000, guid: 03bf0d6f3a26b41fca51c0f8064a3432, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5714651956070778936
+      m_GuidHigh: 6507248636985277331
+    m_SerializedTextureGuid:
+      m_GuidLow: 15340020292273628486
+      m_GuidHigh: 5998560731899341675
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Mark2
+    m_Texture: {fileID: 2800000, guid: 5040e546b32ed4e26bab7734342b3f53, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4861584830864055264
+      m_GuidHigh: 18245440184568276872
+    m_SerializedTextureGuid:
+      m_GuidLow: 3750009328871563016
+      m_GuidHigh: 1593634369760728666
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Mark3
+    m_Texture: {fileID: 2800000, guid: bfca5f08b59d340a5a16710f04ba1d16, type: 3}
